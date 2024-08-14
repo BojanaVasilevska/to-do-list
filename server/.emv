@@ -1,1 +1,2 @@
 PORT=5000
+MONGODB_URI = mongodb+srv://bojanavasilevska:0kQzFWDZwHZcbooB@cluster0.qxiyx.mongodb.net/to_do_list-db?retryWrites=true&w=majority&appName=Cluster0
